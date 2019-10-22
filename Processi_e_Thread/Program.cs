@@ -24,7 +24,7 @@ namespace Processi_e_Thread
             Thread.Sleep(500);
             Console.WriteLine("Main Thread");
 
-
+            Console.ReadLine();
 
         }
     }
