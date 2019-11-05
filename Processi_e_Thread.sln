@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processi_e_Thread", "Proces
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processi_e_Thread2", "Processi_e_Thread2\Processi_e_Thread2.csproj", "{1FD9E546-3CD0-4050-9DA5-A1636FBA2DEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processi_e_Thread3", "Processi_e_Thread3\Processi_e_Thread3.csproj", "{C9370C52-9885-46F5-84B3-6907D61D3C74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1FD9E546-3CD0-4050-9DA5-A1636FBA2DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD9E546-3CD0-4050-9DA5-A1636FBA2DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD9E546-3CD0-4050-9DA5-A1636FBA2DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9370C52-9885-46F5-84B3-6907D61D3C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9370C52-9885-46F5-84B3-6907D61D3C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9370C52-9885-46F5-84B3-6907D61D3C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9370C52-9885-46F5-84B3-6907D61D3C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
